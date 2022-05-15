@@ -1,9 +1,8 @@
 # Policy Forum: Eviction Prevention Policies
 
-Policy Forum aims to to build bridges between the worlds of real estate academia, and policy.
+**Policy Forum aims to to build bridges between the worlds of real estate academia, and policy.**
 
 Inaugural Event: June 2, 2022, at the AREUEA National Meeting
-
 
 * Moderator
   - [Ingrid Gould Ellen](https://wagner.nyu.edu/community/faculty/ingrid-gould-ellen), New York University, USA
