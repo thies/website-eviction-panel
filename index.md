@@ -3,7 +3,7 @@
 **The AREUEA Policy Forum aims to build bridges between research and poilcymaking in real estate and urban policy.**
 
 
-## Inaugural Event (June 2): Eviction Prevention Policies
+## Inaugural Event (June 2):<br/>“Eviction Prevention Policies”
 
 <img src="imgs/51873522835_9c69a62c6e_k.jpg">
 *Photo: [Lynn Friedmann](https://www.flickr.com/photos/lynnfriedman/)*
