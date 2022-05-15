@@ -1,22 +1,25 @@
-# Policy Forum
+# AREUEA Policy Forum
 
-**Policy Forum aims to to build bridges between the worlds of real estate academia, and policy.**
+**The AREUEA Policy Forum aims to build bridges between research and poilcymaking in real estate and urban policy.**
 
 
 ## Inaugural Event (June 2): Eviction Prevention Policies
+
+<img src="imgs/51873522835_9c69a62c6e_k.jpg">
+*Photo: [Lynn Friedmann](https://www.flickr.com/photos/lynnfriedman/)*
 
 * Moderator
   - [Ingrid Gould Ellen](https://wagner.nyu.edu/community/faculty/ingrid-gould-ellen), New York University
 * Panelists
   - [Boaz Abramson](https://stanford.edu/~boaza/), Stanford University
-  - [Vicki Been](https://wagner.nyu.edu/community/faculty/vicki-been), NYU and Former Deputy Mayor New York City
+  - [Vicki Been](https://wagner.nyu.edu/community/faculty/vicki-been), NYU and Former Deputy Mayor, New York City
   - [Robert Collinson](https://economics.nd.edu/faculty/robert-collinson/), University of Notre Dame
   - [Marisa Novara](https://www.chicago.gov/city/en/depts/doh/auto_generated/doh_leadership.html), Commissioner of Housing, City of Chicago
   - [Winnie van Dijk](https://economics.harvard.edu/people/winnie-van-dijk), Harvard University
-* Location: AREUEA National Meeting
+* Location: AREUEA National Meeting, Washington, DC
   - Livestream address: t.b.d.
 
-### Research Briefs
+### Featured Research Briefs
 
 * [“Understanding & Measuring the Consequences of Evictions Using Linked Datasets”](research-brief-collinson-vandijk.md)
   - Research conducted by Robert Collinson (University of Notre Dame), John Eric Humphries (Yale University), Nick Mader (Chapin Hall), Davin Reed (Federal Reserve Bank of Philadelphia), Daniel Tannenbaum (University of Nebraska-Lincoln), and Winnie van Dijk (Harvard University)
@@ -24,7 +27,10 @@
 * [“The Welfare Effects of Eviction and Homelessness Policies”](research-brief-abramson.md)
   - Boaz Abramson (Stanford University)
 
-### Working papers
+
+### Additional resources
+
+#### Working papers
 
 * [“The Effects of Legal Representation on Tenant Outcomes in Housing Court: Evidence from New York City's Universal Access Program”](https://www.nber.org/papers/w29836), Michael T. Cassidy and Janet Currie (2022)
 * [“Does Eviction Cause Poverty? Quasi-experimental Evidence from Cook County, IL”](https://drive.google.com/file/d/1jD-7ogS7Ak7X7DgwjCkrBcgq_NqotxSp/view), John Eric Humphries, Nicholas Mader, Daniel Tannenbaum &amp; Winnie van Dijk (2019)
@@ -36,14 +42,14 @@
 
 * [“Housing Precarity & the COVID-19 Pandemic: Impacts of Utility Disconnection and Eviction Moratoria on Infections and Deaths Across US Counties”](https://www.nber.org/papers/w28394), Kay Jowers, Christopher Timmins, Nrupen Bhavsar, Qihui Hu & Julia Marshall (2021)
 
-### Publications
+#### Publications
 
 * Masatomo Suzuki and Yasushi Asami (2020), [“Tenant Protection, Temporal Vacancy and Frequent Reconstruction in the Rental Housing Market”](https://onlinelibrary.wiley.com/doi/10.1111/1540-6229.12205), *Real Estate Economics*, 48 (4)
 * Ambrose, Brent W. and Moussa Diop (2021), [“Information Asymmetry, Regulations and Equilibrium Outcomes: Theory and Evidence from the Housing Rental Market”](https://onlinelibrary.wiley.com/doi/full/10.1111/1540-6229.12262), *Real Estate Economics*, 49 (S1), 2021
 * Jack Y Favilukis, Pierre Mabille and Stijn Van Nieuwerburgh (2022), [“Affordable Housing and City Welfare”](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3265918), *Review of Economic Studies*
 * Ingrid Gould Ellen, Katherine O'Regan, Sophia House and Ryan Brenner (2021), [“Do Lawyers Matter? Early Evidence on Eviction Patterns after the rollout of NYC's Universal Access to Counsel”](https://furmancenter.org/files/EarlyEvidenceUAC_Working-Paper.pdf), *Housing Policy Debate*
 
-### Links
+#### Links
 
 **Research institutes &amp; Labs**
 
