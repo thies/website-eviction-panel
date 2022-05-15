@@ -3,10 +3,9 @@
 **The AREUEA Policy Forum aims to build bridges between research and poilcymaking in real estate and urban policy.**
 
 
-## Inaugural Event (June 2):<br/>“Eviction Prevention Policies”
+## Inaugural Event: “Eviction Prevention Policies”
 
-<img src="imgs/51873522835_9c69a62c6e_k.jpg">
-*Photo: [(c) Lynn Friedmann](https://www.flickr.com/photos/lynnfriedman/51873522835)*
+**June 2, 2022, AREUEA National Meeting (Washington, DC), Livestream address: t.b.d.**
 
 * Moderator
   - [Ingrid Gould Ellen](https://wagner.nyu.edu/community/faculty/ingrid-gould-ellen), New York University
@@ -16,8 +15,10 @@
   - [Robert Collinson](https://economics.nd.edu/faculty/robert-collinson/), University of Notre Dame
   - [Marisa Novara](https://www.chicago.gov/city/en/depts/doh/auto_generated/doh_leadership.html), Commissioner of Housing, City of Chicago
   - [Winnie van Dijk](https://economics.harvard.edu/people/winnie-van-dijk), Harvard University
-* Location: AREUEA National Meeting, Washington, DC
-  - Livestream address: t.b.d.
+
+  <img src="imgs/51873522835_9c69a62c6e_k.jpg">
+  *Photo: [(c) Lynn Friedmann](https://www.flickr.com/photos/lynnfriedman/51873522835)*
+
 
 ### Featured Research Briefs
 
