@@ -13,6 +13,7 @@
 ## Working papers
 
 * [“The Welfare Effects of Eviction and Homelessness Policies”](http://stanford.edu/~boaza/evictions_abramson.pdf), Boaz Abramson (2021)
+  - [Research Brief](research-brief-abramson.md)
 * [“The Effects of Legal Representation on Tenant Outcomes in Housing Court: Evidence from New York City's Universal Access Program”](https://www.nber.org/papers/w29836), Michael T. Cassidy and Janet Currie (2022)
 * [“Does Eviction Cause Poverty? Quasi-experimental Evidence from Cook County, IL”](https://drive.google.com/file/d/1jD-7ogS7Ak7X7DgwjCkrBcgq_NqotxSp/view), John Eric Humphries, Nicholas Mader, Daniel Tannenbaum &amp; Winnie van Dijk (2019)
 * [“Racial Disparities in Housing Evictions: Evidence from the Access to Counsel”](https://goravara.github.io/evictions.pdf), Rahul Goravara (2021)
@@ -21,6 +22,7 @@
 * [“Eviction Risk of Rental Housing: Does It Matter How Your Landlord Finances the Property?”](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3745974), Brent W. Ambrose, Xudong An and Luis A. Lopez, (2021)
 * [“The Effects of Evictions on Low-Income Households”](https://www.law.nyu.edu/sites/default/files/upload_documents/evictions_collinson_reed.pdf), Robert Collinson and Davin Reed (2018)
 * [“Housing Precarity & the COVID-19 Pandemic: Impacts of Utility Disconnection and Eviction Moratoria on Infections and Deaths Across US Counties”](https://www.nber.org/papers/w28394), Kay Jowers, Christopher Timmins, Nrupen Bhavsar, Qihui Hu & Julia Marshall (2021)
+  - [Research Brief](research-brief-collinson-vandijk.md)
 
 ## Publications
 
@@ -32,11 +34,10 @@
 ## Links
 
 ### Research institutes &amp; Labs
-* [The Eviction Lab](https://evictionlab.org/)]
 
+* [The Eviction Lab](https://evictionlab.org/)
 * [NYU Furman Center](https://furmancenter.org/)
-
-* [Urban Institute](https://www.urban.org/search?text=eviction)]
+* [Urban Institute](https://www.urban.org/search?text=eviction)
 
 ### News items
 
