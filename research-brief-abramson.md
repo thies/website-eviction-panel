@@ -1,6 +1,6 @@
-﻿# Research Brief
+﻿## Research Brief
 
-## The Welfare Effects of Eviction and Homelessness Policies
+# The Welfare Effects of Eviction and Homelessness Policies
 
 *[Boaz Abramson](https://stanford.edu/~boaza/), Stanford University*
 
