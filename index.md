@@ -6,7 +6,7 @@
 ## Inaugural Event (June 2):<br/>“Eviction Prevention Policies”
 
 <img src="imgs/51873522835_9c69a62c6e_k.jpg">
-*Photo: [Lynn Friedmann](https://www.flickr.com/photos/lynnfriedman/)*
+*Photo: [(c) Lynn Friedmann](https://www.flickr.com/photos/lynnfriedman/51873522835)*
 
 * Moderator
   - [Ingrid Gould Ellen](https://wagner.nyu.edu/community/faculty/ingrid-gould-ellen), New York University
