@@ -4,6 +4,8 @@
 
 *[Boaz Abramson](https://stanford.edu/~boaza/), Stanford University*
 
+*Paper: [http://stanford.edu/~boaza/evictions_abramson.pdf](http://stanford.edu/~boaza/evictions_abramson.pdf),*
+
 Across the U.S., approximately 2.2 million eviction cases are filed against renters every year, and 600,000 people suffer from homelessness every night. The magnitude of the housing insecurity problem has triggered a public debate over policies that address evictions and homelessness, such as "Right-to-Counsel" reforms, means-tested rental assistance programs, and more recently, moratoria on evictions. This paper studies how these policies affect rents, housing supply, evictions, homelessness, and welfare in San Diego County.
 
 ### "Right-to-Counsel" Doesn’t Prevent Evictions but Increases Homelessness

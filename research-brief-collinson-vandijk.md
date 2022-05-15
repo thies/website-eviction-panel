@@ -18,20 +18,21 @@ We then study the causal effects of eviction on tenant outcomes. We use an instr
 
 We document signs of increasing economic distress in the lead-up to the filing of eviction cases across a broad set of tenant outcomes: falling earnings, decreased attachment to the labor market, rising unpaid bills, and increases in hospital visits.
 
-Notes: All results approved for release by the U.S. Census Bureau, authorization number CBDRB-FY20-110.
+<img src="imgs/collison-et-al-1.png">
+*Notes:* All results approved for release by the U.S. Census Bureau, authorization number CBDRB-FY20-110.
 
 ### Eviction causes spikes in homelessness, reduced earnings, and worsened credit
 
 We find that eviction compounds rising economic distress experienced by tenants by causing subsequent increases in homelessness and housing instability, reductions in earnings, an uptick in hospital visits, and reductions in credit scores and credit access.  Eviction appears particularly harmful for groups who may have additional difficulty navigating the housing market.
 
-
+<img src="imgs/collison-et-al-2.png">
 *Notes:* All results approved for release by the U.S. Census Bureau, authorization number CBDRB-FY20-110.
 
 ### Implications
 
-- For many people, the existing safety net is not sufficiently responsive to adverse economic shocks to prevent an ensuing eviction
-- Eviction itself can exacerbate adverse circumstances, and for some can even lead to homelessness, suggesting that policies which avert eviction – such as legal aid or temporary financial assistance – may meaningfully reduce economic strain and homelesness
-- Rigorous, data-driven evaluation of eviction-related policies is feasible, using a data infrastructure like the one we built for this research project, and is needed to help focus the allocation of funds to where they are most effective
+* For many people, the existing safety net is not sufficiently responsive to adverse economic shocks to prevent an ensuing eviction
+* Eviction itself can exacerbate adverse circumstances, and for some can even lead to homelessness, suggesting that policies which avert eviction – such as legal aid or temporary financial assistance – may meaningfully reduce economic strain and homelesness
+* Rigorous, data-driven evaluation of eviction-related policies is feasible, using a data infrastructure like the one we built for this research project, and is needed to help focus the allocation of funds to where they are most effective
 
 
-*May 2022**
+*May 2022*
