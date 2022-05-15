@@ -3,18 +3,18 @@
 **Policy Forum aims to to build bridges between the worlds of real estate academia, and policy.**
 
 
-## Inaugural Event: Eviction Prevention Policies
+## Inaugural Event (June 2): Eviction Prevention Policies
 
-* June 2, 2022, at the AREUEA National Meeting
 * Moderator
-  - [Ingrid Gould Ellen](https://wagner.nyu.edu/community/faculty/ingrid-gould-ellen), New York University, USA
+  - [Ingrid Gould Ellen](https://wagner.nyu.edu/community/faculty/ingrid-gould-ellen), New York University
 * Panelists
-  - [Boaz Abramson](https://stanford.edu/~boaza/), Stanford University, USA
-  - [Vicki Been](https://wagner.nyu.edu/community/faculty/vicki-been), NYU and Former Deputy Mayor New York City, USA
-  - [Robert Collinson](https://economics.nd.edu/faculty/robert-collinson/), University of Notre Dame, USA
-  - [Marisa Novara](https://www.chicago.gov/city/en/depts/doh/auto_generated/doh_leadership.html), Commissioner of Housing, City of Chicago, USA
-  - [Winnie van Dijk](https://economics.harvard.edu/people/winnie-van-dijk), Harvard University, USA
-* Livestream address: t.b.d.
+  - [Boaz Abramson](https://stanford.edu/~boaza/), Stanford University
+  - [Vicki Been](https://wagner.nyu.edu/community/faculty/vicki-been), NYU and Former Deputy Mayor New York City
+  - [Robert Collinson](https://economics.nd.edu/faculty/robert-collinson/), University of Notre Dame
+  - [Marisa Novara](https://www.chicago.gov/city/en/depts/doh/auto_generated/doh_leadership.html), Commissioner of Housing, City of Chicago
+  - [Winnie van Dijk](https://economics.harvard.edu/people/winnie-van-dijk), Harvard University
+* Location: AREUEA National Meeting
+  - Livestream address: t.b.d.
 
 ### Research Briefs
 
