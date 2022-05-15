@@ -1,9 +1,11 @@
-# Policy Forum: Eviction Prevention Policies
+# Policy Forum
 
 **Policy Forum aims to to build bridges between the worlds of real estate academia, and policy.**
 
-Inaugural Event: June 2, 2022, at the AREUEA National Meeting
 
+## Inaugural Event: Eviction Prevention Policies
+
+* June 2, 2022, at the AREUEA National Meeting
 * Moderator
   - [Ingrid Gould Ellen](https://wagner.nyu.edu/community/faculty/ingrid-gould-ellen), New York University, USA
 * Panelists
@@ -14,7 +16,7 @@ Inaugural Event: June 2, 2022, at the AREUEA National Meeting
   - [Winnie van Dijk](https://economics.harvard.edu/people/winnie-van-dijk), Harvard University, USA
 * Livestream address: t.b.d.
 
-## Research Briefs
+### Research Briefs
 
 * [“Understanding & Measuring the Consequences of Evictions Using Linked Datasets”](research-brief-collinson-vandijk.md)
   - Research conducted by Robert Collinson (University of Notre Dame), John Eric Humphries (Yale University), Nick Mader (Chapin Hall), Davin Reed (Federal Reserve Bank of Philadelphia), Daniel Tannenbaum (University of Nebraska-Lincoln), and Winnie van Dijk (Harvard University)
@@ -22,7 +24,7 @@ Inaugural Event: June 2, 2022, at the AREUEA National Meeting
 * [“The Welfare Effects of Eviction and Homelessness Policies”](research-brief-abramson.md)
   - Boaz Abramson (Stanford University)
 
-## Working papers
+### Working papers
 
 * [“The Effects of Legal Representation on Tenant Outcomes in Housing Court: Evidence from New York City's Universal Access Program”](https://www.nber.org/papers/w29836), Michael T. Cassidy and Janet Currie (2022)
 * [“Does Eviction Cause Poverty? Quasi-experimental Evidence from Cook County, IL”](https://drive.google.com/file/d/1jD-7ogS7Ak7X7DgwjCkrBcgq_NqotxSp/view), John Eric Humphries, Nicholas Mader, Daniel Tannenbaum &amp; Winnie van Dijk (2019)
@@ -34,22 +36,22 @@ Inaugural Event: June 2, 2022, at the AREUEA National Meeting
 
 * [“Housing Precarity & the COVID-19 Pandemic: Impacts of Utility Disconnection and Eviction Moratoria on Infections and Deaths Across US Counties”](https://www.nber.org/papers/w28394), Kay Jowers, Christopher Timmins, Nrupen Bhavsar, Qihui Hu & Julia Marshall (2021)
 
-## Publications
+### Publications
 
 * Masatomo Suzuki and Yasushi Asami (2020), [“Tenant Protection, Temporal Vacancy and Frequent Reconstruction in the Rental Housing Market”](https://onlinelibrary.wiley.com/doi/10.1111/1540-6229.12205), *Real Estate Economics*, 48 (4)
 * Ambrose, Brent W. and Moussa Diop (2021), [“Information Asymmetry, Regulations and Equilibrium Outcomes: Theory and Evidence from the Housing Rental Market”](https://onlinelibrary.wiley.com/doi/full/10.1111/1540-6229.12262), *Real Estate Economics*, 49 (S1), 2021
 * Jack Y Favilukis, Pierre Mabille and Stijn Van Nieuwerburgh (2022), [“Affordable Housing and City Welfare”](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3265918), *Review of Economic Studies*
 * Ingrid Gould Ellen, Katherine O'Regan, Sophia House and Ryan Brenner (2021), [“Do Lawyers Matter? Early Evidence on Eviction Patterns after the rollout of NYC's Universal Access to Counsel”](https://furmancenter.org/files/EarlyEvidenceUAC_Working-Paper.pdf), *Housing Policy Debate*
 
-## Links
+### Links
 
-### Research institutes &amp; Labs
+**Research institutes &amp; Labs**
 
 * [The Eviction Lab](https://evictionlab.org/)
 * [NYU Furman Center](https://furmancenter.org/)
 * [Urban Institute](https://www.urban.org/search?text=eviction)
 
-### News items
+**News items**
 
 * [A Renter Safety Net: A Call for Federal Emergency Rental Assistance](https://www.economicstrategygroup.org/wp-content/uploads/2020/12/Emergency-Rental-Assistance-1.pdf), Dec 2020
 * [Millions of Renters Face Eviction---Why Today\'s Housing Market is Partially to Blame](https://www.redfin.com/news/millions-of-renters-face-eviction-why-todays-housing-market-is-partially-to-blame/), Dec 12, 2016
