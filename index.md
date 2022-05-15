@@ -1,5 +1,10 @@
 # Policy Forum: Eviction Prevention Policies
 
+Policy Forum aims to to build bridges between the worlds of real estate academia, and policy.
+
+Inaugural Event: June 2, 2022, at the AREUEA National Meeting
+
+
 * Moderator
   - [Ingrid Gould Ellen](https://wagner.nyu.edu/community/faculty/ingrid-gould-ellen), New York University, USA
 * Panelists
@@ -8,14 +13,15 @@
   - [Robert Collinson](https://economics.nd.edu/faculty/robert-collinson/), University of Notre Dame, USA
   - [Marisa Novara](https://www.chicago.gov/city/en/depts/doh/auto_generated/doh_leadership.html), Commissioner of Housing, City of Chicago, USA
   - [Winnie van Dijk](https://economics.harvard.edu/people/winnie-van-dijk), Harvard University, USA
+* Livestream address: t.b.d.
 
 ## Research Briefs
 
 * [“Understanding & Measuring the Consequences of Evictions Using Linked Datasets”](research-brief-collinson-vandijk.md)
-) Research conducted by Robert Collinson (University of Notre Dame), John Eric Humphries (Yale University), Nick Mader (Chapin Hall), Davin Reed (Federal Reserve Bank of Philadelphia), Daniel Tannenbaum (University of Nebraska - Lincoln), and Winnie van Dijk (Harvard University)
+  - Research conducted by Robert Collinson (University of Notre Dame), John Eric Humphries (Yale University), Nick Mader (Chapin Hall), Davin Reed (Federal Reserve Bank of Philadelphia), Daniel Tannenbaum (University of Nebraska-Lincoln), and Winnie van Dijk (Harvard University)
 
-* [“The Welfare Effects of Eviction and Homelessness Policies”](research-brief-abramson.md), Boaz Abramson (Stanford University)
-
+* [“The Welfare Effects of Eviction and Homelessness Policies”](research-brief-abramson.md)
+  - Boaz Abramson (Stanford University)
 
 ## Working papers
 
