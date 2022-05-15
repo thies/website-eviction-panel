@@ -35,6 +35,3 @@ We find that eviction compounds rising economic distress experienced by tenants 
 * For many people, the existing safety net is not sufficiently responsive to adverse economic shocks to prevent an ensuing eviction
 * Eviction itself can exacerbate adverse circumstances, and for some can even lead to homelessness, suggesting that policies which avert eviction – such as legal aid or temporary financial assistance – may meaningfully reduce economic strain and homelesness
 * Rigorous, data-driven evaluation of eviction-related policies is feasible, using a data infrastructure like the one we built for this research project, and is needed to help focus the allocation of funds to where they are most effective
-
-
-*May 2022*

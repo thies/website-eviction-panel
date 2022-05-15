@@ -19,12 +19,6 @@ A monthly subsidy of $400 to households with less than $1,000 of cash can reduce
 ### Implications
 
 * Policies that address evictions can generally be classified into two categories: tenant protections that make it harder to evict renters who have already defaulted on their rent, such as "Right-to-Counsel"; and policies that prevent tenants from missing rent in the first place, such as rental assistance and affordable housing programs.
-
 * Tenant protections against evictions can have the unintended consequences of heightened screening and more homelessness. Landlords might be less willing to rent to risky tenants, in particular to young and poor households, if evictions become more burdensome.
-
 * While cash transfers are costly for local governments, they can also prevent homelessness and evictions. The monetary costs of homelessness to local governments are substantial, including the costs of shelter provision, policing, and health services. The savings in terms of reduced expenses on homelessness services might therefore outweigh the costs of subsidizing rents.
-
 * Other policies that can reduce rent burdens for low income households, and therefore the risk of eviction, should also be considered. These include subsidies for the development of low-income rental housing, as well as the easing of restrictive land use regulations.
-
-
-*May 2022*
